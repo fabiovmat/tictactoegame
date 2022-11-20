@@ -1,1 +1,1 @@
-# Jogo da velha desenvolvido utilizando React.js #
+# Jogo da velha desenvolvido utilizando React.js para estudo#
